@@ -1,0 +1,14 @@
+C:\CC.NET\GSMS\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\CC.NET\GSMS\DomainLayer\bin\Debug\net8.0\DomainLayer.runtimeconfig.json
+C:\CC.NET\GSMS\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\CC.NET\GSMS\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\DomainLayer.genruntimeconfig.cache
+C:\CC.NET\GSMS\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

@@ -1,0 +1,17 @@
+C:\CC.NET\GSMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\CC.NET\GSMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.runtimeconfig.json
+C:\CC.NET\GSMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\CC.NET\GSMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\CC.NET\GSMS\ApplicationLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\CC.NET\GSMS\ApplicationLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CopyComplete
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.genruntimeconfig.cache
+C:\CC.NET\GSMS\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
